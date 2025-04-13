@@ -24,4 +24,4 @@ Contributions
 Contributions to the project are welcome! If you have any improvements, bug fixes, or additional features to suggest, feel free to open a pull request.
 
 Note
-For detailed insights and in-depth analysis of the E_commerce_Sales_Analysis_Dashboard , please refer to the 'description' folder in this repository.
+For detailed insights and in-depth analysis of the E_commerce_Sales_Analysis_Dashboard , please refer to the 'description' folder in this repository .
